@@ -1,0 +1,6 @@
+com\pruebaalexa\decoratorpattern\MarineArmorUpgrade.class
+com\pruebaalexa\decoratorpattern\MarinerDecorator.class
+com\pruebaalexa\decoratorpattern\Marine.class
+com\pruebaalexa\decoratorpattern\IMarine.class
+com\pruebaalexa\decoratorpattern\MarinerWeaponUpgrade.class
+com\pruebaalexa\decoratorpattern\test.class
