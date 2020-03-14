@@ -1,4 +1,4 @@
-package com.pruebaalexa.decoratorpattern;
+package com.kata.decoratorpattern;
 
 
 public interface IMarine {

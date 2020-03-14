@@ -1,9 +1,9 @@
 package test;
 
-import com.pruebaalexa.decoratorpattern.IMarine;
-import com.pruebaalexa.decoratorpattern.Marine;
-import com.pruebaalexa.decoratorpattern.MarineArmorUpgrade;
-import com.pruebaalexa.decoratorpattern.MarinerWeaponUpgrade;
+import com.kata.decoratorpattern.IMarine;
+import com.kata.decoratorpattern.Marine;
+import com.kata.decoratorpattern.MarineArmorUpgrade;
+import com.kata.decoratorpattern.MarinerWeaponUpgrade;
 import org.junit.Test;
 import org.junit.Assert;
 

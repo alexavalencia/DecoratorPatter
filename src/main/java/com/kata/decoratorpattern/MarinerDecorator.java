@@ -1,4 +1,4 @@
-package com.pruebaalexa.decoratorpattern;
+package com.kata.decoratorpattern;
 
 
 public  class MarinerDecorator implements IMarine{

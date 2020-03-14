@@ -1,5 +1,5 @@
 
-package com.pruebaalexa.decoratorpattern;
+package com.kata.decoratorpattern;
 
 public class MarineArmorUpgrade extends MarinerDecorator{
     
